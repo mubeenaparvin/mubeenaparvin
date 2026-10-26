@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mubeena Parvin V.N. 👋
 
-<!--
-**mubeenaparvin/mubeenaparvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics student, learning and building projects to start my career as a data analyst.
 
-Here are some ideas to get you started:
+## 🛠 Skills I'm learning
+- Python (NumPy, pandas, Matplotlib, Seaborn)
+- SQL
+- Excel
+- Data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **ScreenSense AI**: a Flask and machine learning app that predicts screen-time risk
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/mubeena-parvin
